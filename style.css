@@ -9,3 +9,7 @@ body {
 svg {
   display: block;
 }
+
+footer {
+  background-color: #212529;
+}
